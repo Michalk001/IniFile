@@ -9,7 +9,8 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
+.gitignore
+.gitattributes
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
